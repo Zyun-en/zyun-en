@@ -1,10 +1,10 @@
 body {
-    background-color: bisque;
+    background-color: white;
 }
 li {
     list-style-type: square;
     margin: 10px;
-    color: gray;
+    color: black;
 }
 a{
     font-weight: bold;
